@@ -1,4 +1,4 @@
-# bizIt app
+# mobile (android/ios) app
 
 * [Users](documentation/users.md)
 * [Posts](documentation/posts.md)
